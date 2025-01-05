@@ -178,7 +178,7 @@ if(isset($_POST['btn-save'])) {
 
                                             <label for="Grade">Subject Grade</label>
                                             <select class="form-control" name="Grade" id="Grade">
-                                                <option>A+</option>
+                                               <!-- <option>A+</option> -->
                                                 <option>A</option>
                                                 <option>A-</option>
                                                 <option>B+</option>
