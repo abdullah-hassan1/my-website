@@ -1,1 +1,1 @@
-## This Project is for My Personal Use Thank U
+## This Project is for My Personal Use. Thank U
